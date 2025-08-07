@@ -90,8 +90,9 @@ JavaScript, React, Node.js, Express, MongoDB, Python, Flask, MySQL, Tailwind CSS
 
 
 <p align="center">
-  <img src="https://github-contribution-graph.vercel.app/api?username=binayak15" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=binayak15&theme=github-compact&area=true&hide_border=true" />
 </p>
+
 
 
 
