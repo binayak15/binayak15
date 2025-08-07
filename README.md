@@ -44,10 +44,9 @@
 </p>
 
 ### 🌍 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/binayak15/count.svg)
+![Visitors](https://shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/binayak15.github.io/visits)
 
 ### 🧠 Bonus
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-"""
 
 
