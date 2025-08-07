@@ -83,10 +83,14 @@ JavaScript, React, Node.js, Express, MongoDB, Python, Flask, MySQL, Tailwind CSS
 
 ---
 
-### 🧠 Bonus
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+### 🧠 The best way to predict the future is to create it.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</div>
 
 ---
+
 
 
 <p align="center">
