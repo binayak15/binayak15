@@ -1,7 +1,4 @@
-from pathlib import Path
 
-# Define the README content for binayak15 GitHub profile
-readme_content = """
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20👋%20I'm%20Binayak%20Sethy&fontAlign=50&fontColor=ffffff&fontSize=30&textBg=true&animation=fadeIn&color=0:3E54AC,100:00B4DB" />
 </p>
@@ -53,9 +50,4 @@ readme_content = """
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 """
 
-# Save the README content to a file
-readme_path = Path("/mnt/data/README_binayak15.md")
-readme_path.write_text(readme_content.strip())
-
-readme_path.name
 
