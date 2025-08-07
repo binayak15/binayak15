@@ -90,21 +90,8 @@ JavaScript, React, Node.js, Express, MongoDB, Python, Flask, MySQL, Tailwind CSS
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="800px"/>
-</p>
-<p align="center">
-  <img src="https://your-skyline-gif-url.gif" alt="GitHub Skyline" />
-</p>
-<p align="center">
   <img src="https://github-contribution-graph.vercel.app/api?username=binayak15" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=binayak15&theme=github-compact&area=true&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="800px"/>
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/wT5A5H1H8D6Fy/giphy.gif" width="700" />
-</p>
+
+
 
