@@ -119,7 +119,7 @@ fun_fact: "The best way to predict the future is to create it! 🚀"
 </div>
 
 ---
- hello
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:667eea,100:764ba2&section=footer" width="100%"/>
 </div>
