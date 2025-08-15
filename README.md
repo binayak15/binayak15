@@ -15,7 +15,7 @@ education: MCA Graduate
 location: Bhubaneswar, Odisha, India
 interests: [Web Development, Machine Learning, AI Integration]
 currently_learning: [DSA, AI/ML Algorithms]  
-fun_fact: "The best way to predict the future is to create it! 🚀"   
+fun_fact: "The best way to predict the future is to create it! 🚀"      
 ```
    
 - 🎯 **Current Focus**: Building scalable web applications with modern technologies
