@@ -11,7 +11,7 @@
 ```yaml  
 name: Binayak Sethy  
 role: Full Stack Developer & ML Engineer  
-education: MCA Graduate        
+education: MCA Graduate         
 location: Bhubaneswar, Odisha, India
 interests: [Web Development, Machine Learning, AI Integration]
 currently_learning: [DSA, AI/ML Algorithms]  
