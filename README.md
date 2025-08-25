@@ -89,7 +89,7 @@ fun_fact: "The best way to predict the future is to create it! 🚀"
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=binayak15&theme=react-dark&bg_color=20232a&hide_border=true&point=7c3aed&line=7c3aed&color=ffffff" alt="Contribution Graph"/>
 </div>
-
+  
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"> Achievements & Certifications
