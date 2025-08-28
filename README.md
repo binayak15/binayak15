@@ -22,7 +22,7 @@ fun_fact: "The best way to predict the future is to create it! 🚀"
 - 🏥 **Final Year Project**: [Prescripto](https://your-live-link.com) - Doctor Appointment Booking System
 - 📚 **Learning Journey**: Next.js, Advanced Data Structures, AI Integration
 - 🤝 **Open to**: Collaborations, Open Source Contributions, Tech Discussions
-
+ 
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
