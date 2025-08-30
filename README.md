@@ -21,7 +21,7 @@ fun_fact: "The best way to predict the future is to create it! 🚀"
 - 🎯 **Current Focus**: Building scalable web applications with modern technologies
 - 🏥 **Final Year Project**: [Prescripto](https://your-live-link.com) - Doctor Appointment Booking System
 - 📚 **Learning Journey**: Next.js, Advanced Data Structures, AI Integration
-- 🤝 **Open to**: Collaborations, Open Source Contributions, Tech Discussions
+- 🤝 **Open to**: Collaborations, Open Source Contributions, Tech Discussions 
  
 ---
 
