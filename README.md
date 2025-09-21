@@ -8,7 +8,7 @@
             
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">            
            
-```yaml                        
+```yaml                         
 name: Binayak Sethy               
 role: Full Stack Developer & ML Engineer       
 education: MCA Graduate            
